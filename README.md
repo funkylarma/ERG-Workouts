@@ -24,9 +24,22 @@ These workouts are broken down by the power zones they target.
 **Active recovery**
 Simple ride that should be kept under 75% of FTP
 
+---
+
 ## Endurance Workouts
 
 ---
+
+### END-W3
+**Longer Basic Ride**
+This ride will extend your milage slightly and build your 'engine'. Solid endurance/tempo miles will improve your aerobic capacity.
+
+After warming up, ride for about 2.5 hours with power between 60 and 70 percent of FTP and cadence in the 90-95 rpm range. At times this is an easy effort, and other times it's a solid fast pace. Try not to spend much time over 70 percent of FTP.
+
+Cool down with 10-15 minutes of easy riding before making that recovery shake and stretching.
+
+---
+
 
 ## Tempo Workouts
 
@@ -38,6 +51,8 @@ Simple ride that should be kept under 75% of FTP
 
 ### SS-W6
 **Six minute spots**
+
+---
 
 ## Lactate Threshold Workouts
 
