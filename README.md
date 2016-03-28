@@ -7,7 +7,7 @@ This is a collection of workouts I have created or found through various channel
 These workouts are broken down by the power zones they target.
 
 - Active Recovery Workouts
-- [Endurance Workouts](#endurance-workouts)
+- Endurance Workouts
 - Tempo Workouts
 - Sweet spot Workouts
 - Lactate Threshold Workouts
@@ -22,6 +22,7 @@ These workouts are broken down by the power zones they target.
 
 ### AR-W1
 **Active recovery**
+
 Simple ride that should be kept under 75% of FTP
 
 ---
@@ -32,6 +33,7 @@ Simple ride that should be kept under 75% of FTP
 
 ### END-W3
 **Longer Basic Ride**
+
 This ride will extend your milage slightly and build your 'engine'. Solid endurance/tempo miles will improve your aerobic capacity.
 
 After warming up, ride for about 2.5 hours with power between 60 and 70 percent of FTP and cadence in the 90-95 rpm range. At times this is an easy effort, and other times it's a solid fast pace. Try not to spend much time over 70 percent of FTP.
@@ -42,6 +44,7 @@ Cool down with 10-15 minutes of easy riding before making that recovery shake an
 
 ### END-W4
 **10 Second Bursts**
+
 Warm up in the usual manor.
 
 Then begin 2.5 hours of riding at a nice, steady pace with watts in levels 2-3. This is great endurance pace that will allow you to finish strong and also get some solid aerobic benefit. Within the endurance set do ten short ten second bursts out of the saddle. This burst effort is 80 percent of what a full point would be. Cadence should be high, over 105 rpm to create a hard, sharp effort that will begin to improve your neuromuscular capacity. Do these bursts randomly throughout the ride.
@@ -74,6 +77,7 @@ Cool down
 
 ### VO2-W2
 **50 seconds of pain**
+
 This is 3x12-minute sets of 50 seconds all-out (125% FTP) followed closely by 50 seconds of rest where the less predictable spacing of efforts is meant to surprise riders & keep them attentive.
 
 4 minutes of recovery separates each set of intervals.
@@ -94,10 +98,21 @@ The goal here is to improve both your aerobic efficiency and aerobic power.By wo
 ---
 
 ## Anaerobic Capacity Workouts
+
 ---
 
 ## Neuromuscular Workouts
+
 ---
 
 ## Testing Protocols
+
+---
+
+### TEST-W1
+
+**20 Minute FTP Test**
+
+This is the normal Hunter Allan and Andrew Coggan 20 minute FTP test.
+
 ---
