@@ -31,6 +31,18 @@ Simple ride that should be kept under 75% of FTP
 
 ---
 
+### END-W1
+
+**Active recovery**
+
+Warm up and ride at a nice, steady pace.
+
+Keep cadence high, 85-95rpm. Occasional hills might increase your power, but generally average between 56 and 75 percent of FTP.
+
+Cool down
+
+---
+
 ### END-W3
 **Longer Basic Ride**
 
