@@ -7,7 +7,7 @@ This is a collection of workouts I have created or found through various channel
 These workouts are broken down by the power zones they target.
 
 - Active Recovery Workouts
-- Endurance Workouts
+- [Endurance Workouts](#endurance-workouts)
 - Tempo Workouts
 - Sweet spot Workouts
 - Lactate Threshold Workouts
