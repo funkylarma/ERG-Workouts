@@ -89,6 +89,7 @@ Secondarily, this strives to simultaneously challenge one's anaerobic work capac
 ---
 
 ### VO2-W3
+
 **Sprint and hold**
 
 This is 6 sets lasting almost 5 minutes each each consisting of 8x15 efforts at 125% FTP with less than restful "floats" for 15 seconds at 88% FTP.The floats grow to 30 seconds after every set of short VO2 Max efforts.Recoveries between sets are 5 minutes long.
@@ -96,6 +97,21 @@ This is 6 sets lasting almost 5 minutes each each consisting of 8x15 efforts at 
 The goal here is to improve both your aerobic efficiency and aerobic power.By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.Additionally, youll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.If youre frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
 
 ---
+
+### VO2-W8
+
+**Red Lake**
+
+Red Lake is 5x6-minute repeats at 108% FTP separated by 5-minute recovery valleys.
+
+A sharp drop from VO2 Max power allows far greater time at an output well above your current sustainable power.
+
+The intent is to cultivate greater muscular endurance and pain tolerance as your VO2 Max intervals become more & more similar to your key event.
+
+Shoot for a cadence in the 85-95 rpm range.
+
+---
+
 
 ## Anaerobic Capacity Workouts
 
@@ -105,7 +121,7 @@ The goal here is to improve both your aerobic efficiency and aerobic power.By wo
 
 **Hawks Bill**
 
-Hawk's Bill is 6 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP. 
+Hawk's Bill is 6 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
 
 Extended 30-second floats fall after each set of Billats and the entire workout offers a crack at almost 12 minutes at/near VO2 Max power.
 
