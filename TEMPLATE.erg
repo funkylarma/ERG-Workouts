@@ -1,9 +1,8 @@
 [COURSE HEADER]
-FILE NAME = Insert Workout Title
 FTP=100
+FILE NAME = Insert Workout Title
 DESCRIPTION = Insert Workout Description
 VERSION = 2
 UNITS = ENGLISH
 MINUTES WATTS
 [END COURSE HEADER]
-
