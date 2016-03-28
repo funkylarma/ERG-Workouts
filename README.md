@@ -179,11 +179,15 @@ Very Important: Performing these intervals at 125% FTP assumes you can complete 
 
 If you're frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
 
+**Workout Overload**
+
+AC-W12+1 - 130% reps
+
 ---
 
 ### AC-W14
 
-**Hawks Bill**
+**Wolf Jaw**
 
 Hawk's Bill is 5 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
 
@@ -202,6 +206,10 @@ Additionally, you'll improve your ability to accelerate in minimal time and impr
 Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.
 
 If you're frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
+
+**Workout Overload**
+
+AC-W14+1 - 130% reps
 
 ---
 
