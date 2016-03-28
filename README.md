@@ -189,7 +189,7 @@ AC-W12+1 - 130% reps
 
 **Wolf Jaw**
 
-Hawk's Bill is 5 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
+Hawk's Bill is 7 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
 
 Extended 30-second floats fall after each set of Billats and the entire workout offers a crack at almost 12 minutes at/near VO2 Max power.
 
