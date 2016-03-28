@@ -20,6 +20,10 @@ These workouts are broken down by the power zones they target.
 
 ---
 
+### AR-W1
+**Active Recovery**
+Simple ride that should be kept under 75% of FTP
+
 ## Endurance Workouts
 
 ---
