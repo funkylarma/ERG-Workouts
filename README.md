@@ -43,6 +43,18 @@ Cool down
 
 ---
 
+### END-W2
+
+**Basic ride**
+
+Warm up to get the legs loose.
+
+Keep cadence high, 85-95rpm. Power should not exceed 80 percent of FTP. It's okay if power tips past 80 percent on the occasional hill, but keep the ride focused on building endurance.
+
+Cool down with easy pedalling
+
+---
+
 ### END-W3
 **Longer Basic Ride**
 
