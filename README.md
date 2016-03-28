@@ -40,6 +40,16 @@ Cool down with 10-15 minutes of easy riding before making that recovery shake an
 
 ---
 
+### END-W4
+**10 Second Bursts**
+Warm up in the usual manor.
+
+Then begin 2.5 hours of riding at a nice, steady pace with watts in levels 2-3. This is great endurance pace that will allow you to finish strong and also get some solid aerobic benefit. Within the endurance set do ten short ten second bursts out of the saddle. This burst effort is 80 percent of what a full point would be. Cadence should be high, over 105 rpm to create a hard, sharp effort that will begin to improve your neuromuscular capacity. Do these bursts randomly throughout the ride.
+
+Cool down
+
+---
+
 
 ## Tempo Workouts
 
