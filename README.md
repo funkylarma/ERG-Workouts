@@ -52,6 +52,15 @@ Secondarily, this strives to simultaneously challenge one's anaerobic work capac
 
 ---
 
+### VO2-W3
+**Sprint and hold**
+
+This is 6 sets lasting almost 5 minutes each each consisting of 8x15 efforts at 125% FTP with less than restful "floats" for 15 seconds at 88% FTP.The floats grow to 30 seconds after every set of short VO2 Max efforts.Recoveries between sets are 5 minutes long.
+
+The goal here is to improve both your aerobic efficiency and aerobic power.By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.Additionally, youll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.If youre frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
+
+---
+
 ## Anaerobic Capacity Workouts
 ---
 
