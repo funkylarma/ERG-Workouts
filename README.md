@@ -112,6 +112,22 @@ Shoot for a cadence in the 85-95 rpm range.
 
 ---
 
+### VO2-W9
+
+**Shortoff**
+
+Shortoff consists of 2 sets of 3x2-minute VO2 Max intervals at 120% FTP.
+
+Rest between intervals is 2 minutes long and rest between sets of intervals is 8 minutes long.
+
+Reduce the Workout Intensity as necessary such that you can fully complete each of these 4-minute intervals, but never drop below 110% FTP.
+
+You''ll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
+
+VO2max repeats are all about increasing your aerobic capabilities & adaptations via work done at or very near your peak aerobic power output.
+
+On the psychological side, they'll improve your ability to not only mentally tolerate work at this high output but repeat such efforts, frequently if necessary.
+
 
 ## Anaerobic Capacity Workouts
 
