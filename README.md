@@ -34,7 +34,7 @@ Cool down | 5m   | Cool down   | 2     | 29-55
 
 ---
 
-## Endurance Workouts <a id="end"></a>
+## Endurance Workouts
 
 ---
 
@@ -112,11 +112,11 @@ Cool down | 5m      | Cool down                        | 2     | 29-55
 ---
 
 
-## Tempo Workouts <a id="temp"></a>
+## Tempo Workouts
 
 ---
 
-## Sweet spot Workouts <a id="ss"></a>
+## Sweet spot Workouts
 
 ---
 
@@ -135,7 +135,7 @@ FP        | 5x1m (1m RI) | Fast pedal - 110+ rpm | 3     | 84-88
 SS        | 3x6m (2m RI) | Sweet spot            | 3-4   | 84-98
 Cool down | 5m           | Cool down             | 2     | 29-55
 
-**Workout Overload**
+**Workout Overloads**
 
 - SS-W6+1 - 4 sets
 - SS-W6+2 - 5 sets
@@ -165,7 +165,7 @@ FP        | 5x1m (1m RI)  | Fast pedal - 110+ rpm | 3     | 84-88
 SS        | 3x12m (3m RI) | Sweet spot            | 3-4   | 84-98
 Cool down | 5m            | Cool down             | 2     | 29-55
 
-**Workout Overload**
+**Workout Overloads**
 
 - SS-W8+1 - 4 sets
 - SS-W8+2 - 5 sets
@@ -173,7 +173,7 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
-## Lactate Threshold Workouts <a id="lt"></a>
+## Lactate Threshold Workouts
 
 ---
 
@@ -198,7 +198,7 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
-## VO2 Max Workouts <a id="vo2"></a>
+## VO2 Max Workouts
 
 ---
 
@@ -279,7 +279,39 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
-## Anaerobic Capacity Workouts <a id="ac"></a>
+## Anaerobic Capacity Workouts
+
+---
+
+### AC-W9
+
+**Monadnock**
+
+Monadnock consists of 2 sets of 3x4-minute VO2max intervals at 130% FTP.
+
+Rest between intervals is 4 minutes long and rest between sets of intervals is 8 minutes long.
+
+Reduce the Workout Intensity as necessary such that you can fully complete each of these 4-minute intervals, but never drop below 110% FTP.
+
+You''ll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
+
+VO2max repeats are all about increasing your aerobic capabilities & adaptations via work done at or very near your peak aerobic power output.
+
+On the psychological side, they'll improve your ability to not only mentally tolerate work at this high output but repeat such efforts, frequently if necessary.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Endurance | 5m           | Easy riding           | 2     | 59-68
+Set 1     | 3x2m (4m RI) | Anaerobic capacity    | 6     | 130
+Recovery  | 8m           | Easy riding           | 1     | 40
+Set 1     | 3x2m (4m RI) | Anaerobic capacity    | 6     | 130
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+**Workout Overloads**
+
+- AC-W9+1 - 3m work intervals
+- AC-W9+2 - 4m work intervals
 
 ---
 
@@ -314,9 +346,9 @@ Main set  | 6x5m (5m RI) | Anaerobic capacity    |       |
           | _15s floats_ | _Sweet spot_          | 3     | 88
 Cool down | 5m           | Cool down             | 2     | 29-55
 
-**Workout Overload**
+**Workout Overloads**
 
-- AC-W12+1 - 130% reps
+- AC-W12+1 - 130% work intervals
 
 ---
 
@@ -351,9 +383,9 @@ Main set  | 7x5m (5m RI) | Anaerobic capacity    |       |
           | _15s floats_ | _Sweet spot_          | 3     | 88
 Cool down | 5m           | Cool down             | 2     | 29-55
 
-**Workout Overload**
+**Workout Overloads**
 
-- AC-W14+1 - 130% reps
+- AC-W14+1 - 130% work intervals
 
 ---
 
@@ -380,11 +412,11 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
-## Neuromuscular Power Workouts <a id="np"></a>
+## Neuromuscular Power Workouts
 
 ---
 
-## Testing Protocols <a id="test"></a>
+## Testing Protocols
 
 ---
 
