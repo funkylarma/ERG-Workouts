@@ -6,17 +6,17 @@ This is a collection of workouts I have created or found through various channel
 
 These workouts are broken down by the power zones they target.
 
-- [Active Recovery Workouts](#active-recovery-workouts)
-- [Endurance Workouts](#endurance-workouts)
-- [Tempo Workouts](#tempo-workouts)
-- [Sweet spot Workouts](#sweet-spot-workouts)
-- [Lactate Threshold Workouts](#lactate-threshold-workouts)
-- [VO2 Max Workouts](#vo2-max-workouts)
-- [Anaerobic Capacity Workouts](#anaerobic-capacity-workouts)
-- [Neuromuscular Workouts](#neuromuscular-workouts)
-- [Testing Protocols](#testing-protocols)
+- [Active Recovery Workouts](#ar)
+- [Endurance Workouts](#end)
+- [Tempo Workouts](#tempo)
+- [Sweet spot Workouts](#ss)
+- [Lactate Threshold Workouts](#lt)
+- [VO2 Max Workouts](#vo2)
+- [Anaerobic Capacity Workouts](#ac)
+- [Neuromuscular Power Workouts](#np)
+- [Testing Protocols](#test)
 
-## Active Recovery Workouts
+## Active Recovery Workouts <a id="ar"></a>
 
 ---
 
@@ -34,7 +34,7 @@ Cool down | 5m   | Cool down   | 2     | 29-55
 
 ---
 
-## Endurance Workouts
+## Endurance Workouts <a id="end"></a>
 
 ---
 
@@ -112,11 +112,11 @@ Cool down | 5m      | Cool down                        | 2     | 29-55
 ---
 
 
-## Tempo Workouts
+## Tempo Workouts <a id="temp"></a>
 
 ---
 
-## Sweet spot Workouts
+## Sweet spot Workouts <a id="ss"></a>
 
 ---
 
@@ -173,11 +173,32 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
-## Lactate Threshold Workouts
+## Lactate Threshold Workouts <a id="lt"></a>
 
 ---
 
-## VO2 Max Workouts
+### LT-W9
+
+**Rubicon**
+
+Rubicon consists of 3x12-minute intervals at 105% FTP with 6-minute recoveries between intervals.
+
+The goal of Threshold workouts is to extend high power over greater duration so each iteration of this particular type of suffering will include more or longer work intervals than the version before it and the recovery valleys will shrink from training phase to training phase.
+
+These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position.
+
+Strive your keep your cadence in that 85-95 rpm range.
+
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+Endurance | 6m            | Easy riding           | 2     | 70-75
+Threshold | 3x12m (6m RI) | Threshold             | 4     | 105
+Cool down | 5m            | Cool down             | 2     | 29-55
+
+---
+
+## VO2 Max Workouts <a id="vo2"></a>
 
 ---
 
@@ -258,7 +279,7 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
-## Anaerobic Capacity Workouts
+## Anaerobic Capacity Workouts <a id="ac"></a>
 
 ---
 
@@ -283,6 +304,15 @@ Additionally, you'll improve your ability to accelerate in minimal time and impr
 Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.
 
 If you're frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Tempo     | 5m           | Tempo effort          | 3     | 80-90
+Main set  | 6x5m (5m RI) | Anaerobic capacity    |       |
+          | _7x20s over_ | _Anaerobic capacity_  | 6     | 120
+          | _15s floats_ | _Sweet spot_          | 3     | 88
+Cool down | 5m           | Cool down             | 2     | 29-55
 
 **Workout Overload**
 
@@ -312,17 +342,49 @@ Very Important: Performing these intervals at 125% FTP assumes you can complete 
 
 If you're frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
 
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Tempo     | 5m           | Tempo effort          | 3     | 80-90
+Main set  | 7x5m (5m RI) | Anaerobic capacity    |       |
+          | _7x20s over_ | _Anaerobic capacity_  | 6     | 120
+          | _15s floats_ | _Sweet spot_          | 3     | 88
+Cool down | 5m           | Cool down             | 2     | 29-55
+
 **Workout Overload**
 
 - AC-W14+1 - 130% reps
 
 ---
 
-## Neuromuscular Workouts
+### AC-W16
+
+**Apple Orchard**
+
+Apple Orchard is 4 sets lasting 3.5 minutes each. Each interval consists of 6x15 efforts at 125% FTP with less than restful "floats" for 15 seconds at 88% FTP.
+
+The floats grow to 30 seconds after every set of short VO2 Max efforts.
+
+Recoveries between sets are 3 minutes long.
+
+The primary goals here are still to improve both your aerobic efficiency & aerobic power, but by keeping the total work volume relatively low with fewer repeats, your body stands a better chance of absorbing the stress of previous, higher-stress training weeks.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Tempo     | 7m           | Tempo effort          | 3     | 80-90
+Main set  | 4x5m (3m RI) | Anaerobic capacity    |       |
+          | _6x15s over_ | _Anaerobic capacity_  | 6     | 120
+          | _15s floats_ | _Sweet spot_          | 3     | 88
+Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
-## Testing Protocols
+## Neuromuscular Power Workouts <a id="np"></a>
+
+---
+
+## Testing Protocols <a id="test"></a>
 
 ---
 
