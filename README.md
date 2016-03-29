@@ -67,6 +67,7 @@ Cool down with 10-15 minutes of easy riding before making that recovery shake an
 ---
 
 ### END-W4
+
 **10 Second Bursts**
 
 Warm up in the usual manor.
@@ -87,7 +88,41 @@ Cool down
 ---
 
 ### SS-W6
+
 **Six minute spots**
+
+Sweet spot training is some of your best bang for buck. It offers great metabolic advantages whilst still be repeatable many times in the week. Sweet spot training takes place just below your threshold and can take the form of many lengths of intervals.
+
+This particular work out is for 3 sets of 6 minute intervals.
+
+**Workout Overload**
+
+SS-W6+1 - 4 sets
+SS-W6+2 - 5 sets
+SS-W6+3 - 6 sets
+SS-W6+4 - 7 sets
+
+---
+
+### SS-W8
+
+**Twelve minute spots**
+
+Sweet spot training is some of your best bang for buck. It offers great metabolic advantages whilst still be repeatable many times in the week. Sweet spot training takes place just below your threshold and can take the form of many lengths of intervals.
+
+This particular work out is for 3 sets of 12 minute intervals.
+
+Start with 10 minutes of warm up followed by 5 sets of 1 minute fast pedalling. 1 minutes rest inbetween efforts.
+
+Perform the 3 sets of 12 minutes at sweet spot effort with 3 minutes zone 2 recovery.
+
+Cool down for 5 minutes
+
+**Workout Overload**
+
+SS-W8+1 - 4 sets
+SS-W8+2 - 5 sets
+SS-W8+3 - 6 sets
 
 ---
 
