@@ -6,24 +6,31 @@ This is a collection of workouts I have created or found through various channel
 
 These workouts are broken down by the power zones they target.
 
-- Active Recovery Workouts
-- Endurance Workouts
-- Tempo Workouts
-- Sweet spot Workouts
-- Lactate Threshold Workouts
-- VO2 Max Workouts
-- Anaerobic Capacity Workouts
-- Neuromuscular Workouts
-- Testing Protocols
+- [Active Recovery Workouts](#active-recovery-workouts)
+- [Endurance Workouts](#endurance-workouts)
+- [Tempo Workouts](#tempo-workouts)
+- [Sweet spot Workouts](#sweet-spot-workouts)
+- [Lactate Threshold Workouts](#lactate-threshold-workouts)
+- [VO2 Max Workouts](#vo2-max-workouts)
+- [Anaerobic Capacity Workouts](#anaerobic-capacity-workouts)
+- [Neuromuscular Workouts](#neuromuscular-workouts)
+- [Testing Protocols](#testing-protocols)
 
 ## Active Recovery Workouts
 
 ---
 
 ### AR-W1
+
 **Active recovery**
 
 Simple ride that should be kept under 75% of FTP
+
+Section   | Time | Description | Zones | % of FTP
+----------|------|-------------|:-----:|:-------:
+Warmup    | 10m  | Easy riding | 2     | 38-66
+Main set  | 45m  | Easy riding | <2    | 0-75
+Cool down | 5m   | Cool down   | 2     | 29-55
 
 ---
 
@@ -41,6 +48,12 @@ Keep cadence high, 85-95rpm. Occasional hills might increase your power, but gen
 
 Cool down
 
+Section   | Time | Description | Zones | % of FTP
+----------|------|-------------|:-----:|:-------:
+Warmup    | 10m  | Easy riding | 2     | 38-66
+Main set  | 45m  | Easy riding | 2     | 66-75
+Cool down | 5m   | Cool down   | 2     | 29-55
+
 ---
 
 ### END-W2
@@ -53,9 +66,16 @@ Keep cadence high, 85-95rpm. Power should not exceed 80 percent of FTP. It's oka
 
 Cool down with easy pedalling
 
+Section   | Time | Description | Zones | % of FTP
+----------|------|-------------|:-----:|:-------:
+Warmup    | 10m  | Easy riding | 2     | 38-66
+Main set  | 90m  | Endurance   | 2     | 66-75
+Cool down | 5m   | Cool down   | 2     | 29-55
+
 ---
 
 ### END-W3
+
 **Longer Basic Ride**
 
 This ride will extend your milage slightly and build your 'engine'. Solid endurance/tempo miles will improve your aerobic capacity.
@@ -63,6 +83,12 @@ This ride will extend your milage slightly and build your 'engine'. Solid endura
 After warming up, ride for about 2.5 hours with power between 60 and 70 percent of FTP and cadence in the 90-95 rpm range. At times this is an easy effort, and other times it's a solid fast pace. Try not to spend much time over 70 percent of FTP.
 
 Cool down with 10-15 minutes of easy riding before making that recovery shake and stretching.
+
+Section   | Time | Description | Zones | % of FTP
+----------|------|-------------|:-----:|:-------:
+Warmup    | 10m  | Easy riding | 2     | 38-66
+Main set  | 150m | Endurance   | 2     | 66-75
+Cool down | 5m   | Cool down   | 2     | 29-55
 
 ---
 
@@ -75,6 +101,13 @@ Warm up in the usual manor.
 Then begin 2.5 hours of riding at a nice, steady pace with watts in levels 2-3. This is great endurance pace that will allow you to finish strong and also get some solid aerobic benefit. Within the endurance set do ten short ten second bursts out of the saddle. This burst effort is 80 percent of what a full point would be. Cadence should be high, over 105 rpm to create a hard, sharp effort that will begin to improve your neuromuscular capacity. Do these bursts randomly throughout the ride.
 
 Cool down
+
+Section   | Time    | Description                      | Zones | % of FTP
+----------|---------|----------------------------------|:-----:|:-------:
+Warmup    | 10m     | Easy riding                      | 2     | 38-66
+Main set  | 150m    | Endurance                        | <2    | 0-75
+          | _10x8s_ | _Bursts at hard effort 105+ rpm_ | 7     | 150+
+Cool down | 5m      | Cool down                        | 2     | 29-55
 
 ---
 
@@ -95,12 +128,19 @@ Sweet spot training is some of your best bang for buck. It offers great metaboli
 
 This particular work out is for 3 sets of 6 minute intervals.
 
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+FP        | 5x1m (1m RI) | Fast pedal - 110+ rpm | 3     | 84-88
+SS        | 3x6m (2m RI) | Sweet spot            | 3-4   | 84-98
+Cool down | 5m           | Cool down             | 2     | 29-55
+
 **Workout Overload**
 
-SS-W6+1 - 4 sets
-SS-W6+2 - 5 sets
-SS-W6+3 - 6 sets
-SS-W6+4 - 7 sets
+- SS-W6+1 - 4 sets
+- SS-W6+2 - 5 sets
+- SS-W6+3 - 6 sets
+- SS-W6+4 - 7 sets
 
 ---
 
@@ -118,11 +158,18 @@ Perform the 3 sets of 12 minutes at sweet spot effort with 3 minutes zone 2 reco
 
 Cool down for 5 minutes
 
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+FP        | 5x1m (1m RI)  | Fast pedal - 110+ rpm | 3     | 84-88
+SS        | 3x12m (3m RI) | Sweet spot            | 3-4   | 84-98
+Cool down | 5m            | Cool down             | 2     | 29-55
+
 **Workout Overload**
 
-SS-W8+1 - 4 sets
-SS-W8+2 - 5 sets
-SS-W8+3 - 6 sets
+- SS-W8+1 - 4 sets
+- SS-W8+2 - 5 sets
+- SS-W8+3 - 6 sets
 
 ---
 
@@ -135,6 +182,7 @@ SS-W8+3 - 6 sets
 ---
 
 ### VO2-W2
+
 **50 seconds of pain**
 
 This is 3x12-minute sets of 50 seconds all-out (125% FTP) followed closely by 50 seconds of rest where the less predictable spacing of efforts is meant to surprise riders & keep them attentive.
@@ -155,6 +203,12 @@ This is 6 sets lasting almost 5 minutes each each consisting of 8x15 efforts at 
 
 The goal here is to improve both your aerobic efficiency and aerobic power.By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.Additionally, youll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.If youre frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
 
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+VO2       | 3x5m (5m RI) | VO2 Max efforts       | 5     | 110-120
+Cool down | 5m           | Cool down             | 2     | 29-55
+
 ---
 
 ### VO2-W8
@@ -168,6 +222,12 @@ A sharp drop from VO2 Max power allows far greater time at an output well above 
 The intent is to cultivate greater muscular endurance and pain tolerance as your VO2 Max intervals become more & more similar to your key event.
 
 Shoot for a cadence in the 85-95 rpm range.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+VO2       | 5x6m (5m RI) | VO2 Max efforts       | 5     | 108
+Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
@@ -187,6 +247,16 @@ VO2max repeats are all about increasing your aerobic capabilities & adaptations 
 
 On the psychological side, they'll improve your ability to not only mentally tolerate work at this high output but repeat such efforts, frequently if necessary.
 
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Endurance | 5m           | Easy riding           | 2     | 59-68
+Set 1     | 3x4m (4m RI) | VO2 Max efforts       | 5     | 120
+Recovery  | 8m           | Easy riding           | 1     | 40
+Set 2     | 3x4m (4m RI) | VO2 Max efforts       | 5     | 120
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
 
 ## Anaerobic Capacity Workouts
 
@@ -216,7 +286,7 @@ If you're frequently exiting intervals early, reduce the Workout Intensity to a 
 
 **Workout Overload**
 
-AC-W12+1 - 130% reps
+- AC-W12+1 - 130% reps
 
 ---
 
@@ -244,7 +314,7 @@ If you're frequently exiting intervals early, reduce the Workout Intensity to a 
 
 **Workout Overload**
 
-AC-W14+1 - 130% reps
+- AC-W14+1 - 130% reps
 
 ---
 
