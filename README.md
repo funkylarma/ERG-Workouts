@@ -177,6 +177,32 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
+### LT-W8
+
+**Mixed Up Minutes**
+
+Warm up as normal and follow this up with a couple of minutes of fast pedal.
+
+The main part of this workout consists of 4 sets of 5 minutes at various zones. Start with 1 minute at VO2 Max, second minute at Threshold. Third minute you get to relax at Tempo before you build back up to Threshold for the 4th minute. Finish the 5th and final minute at VO2 Max and finally rest for 7 minutes.
+
+Finish the workout with a 5 minute cool down.
+
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+FP        | 5x1m (1m RI)  | Fast pedal - 110+ rpm | 3     | 84-88
+Main set  | 2x5m (7m RI)  | Mixed up efforts      |       |
+          | _1m_          | _VO2 Max effort_      | 5     | 114
+          | _1m_          | _Threshold effort_    | 4     | 99
+          | _1m_          | _Tempo effort_        | 3     | 84
+          | _1m_          | _Threshold effort_    | 4     | 99
+          | _1m_          | _VO2 Max effort_      | 5     | 114
+Cool down | 5m            | Cool down             | 2     | 29-55
+
+**Workout Overloads**
+
+---
+
 ### LT-W9
 
 **Rubicon**
@@ -194,6 +220,27 @@ Section   | Time          | Description           | Zones | % of FTP
 Warmup    | 10m           | Easy riding           | 2     | 38-66
 Endurance | 6m            | Easy riding           | 2     | 70-75
 Threshold | 3x12m (6m RI) | Threshold             | 4     | 105
+Cool down | 5m            | Cool down             | 2     | 29-55
+
+---
+
+### LT-W11
+
+**Sisters**
+
+Sisters consists of 3x6-minute intervals at 105% FTP with 2-minute recoveries between intervals.
+
+The goal of Threshold workouts is to extend high power over greater duration so each iteration of this particular type of suffering will include more or longer work intervals than the version before it and the recovery valleys will shrink from training phase to training phase.
+
+These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position.
+
+Strive your keep your cadence in that 85-95rpm range.
+
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+Endurance | 15m           | Easy riding           | 2     | 60-70
+Threshold | 3x6m (2m RI)  | Threshold             | 4     | 105
 Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
@@ -229,6 +276,31 @@ Section   | Time         | Description           | Zones | % of FTP
 Warmup    | 10m          | Easy riding           | 2     | 38-66
 VO2       | 3x5m (5m RI) | VO2 Max efforts       | 5     | 110-120
 Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### VO2-W6
+
+**Elephants**
+
+Elephants consists of 6x5-minute repeats at 108% FTP separated by 3-minute recovery valleys.
+
+A sharp drop from VO2 Max power allows far greater time at an output well above your current sustainable power.
+
+The intent is to cultivate greater muscular endurance and pain tolerance as your VO2 Max intervals become more & more similar to your key event.
+
+Shoot for a cadence in the 85-95 rpm range.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+VO2       | 6x5m (3m RI) | VO2 Max efforts       | 5     | 108
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+**Workout Overloads**
+
+- VO2-W6+1 - 6m work intervals
+- VO2-W6+2 - 6m work intervals
 
 ---
 
@@ -277,6 +349,12 @@ Recovery  | 8m           | Easy riding           | 1     | 40
 Set 2     | 3x4m (4m RI) | VO2 Max efforts       | 5     | 120
 Cool down | 5m           | Cool down             | 2     | 29-55
 
+**Workout Overloads**
+
+- VO2-W9+1 - 3m work intervals
+- VO2-W9+2 - 4m work intervals
+- VO2-W9+3 - 5m work intervals
+
 ---
 
 ## Anaerobic Capacity Workouts
@@ -319,7 +397,7 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 **Hawks Bill**
 
-Hawk's Bill is 6 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
+Hawk's Bill is 6 sets of 7x20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
 
 Extended 30-second floats fall after each set of Billats and the entire workout offers a crack at almost 12 minutes at/near VO2 Max power.
 
@@ -356,7 +434,7 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 **Wolf Jaw**
 
-Hawk's Bill is 7 sets of 7x 20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
+Wolf Jaw is 7 sets of 7x20s/15s Reduced Amplitude Billats where you'll spend 20 seconds at 125% FTP and then "float" for 15 seconds at 88% FTP.
 
 Extended 30-second floats fall after each set of Billats and the entire workout offers a crack at almost 12 minutes at/near VO2 Max power.
 
@@ -386,6 +464,35 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 **Workout Overloads**
 
 - AC-W14+1 - 130% work intervals
+
+---
+
+### AC-W15
+
+**Bear**
+
+Bear is 7 sets lasting about 5 minutes each consisting of 7x25/15 VO2 Max repeats where you'll ride for 25 seconds at 125% FTP and then "float" at 88% FTP for 15-30 seconds in between.
+
+5 minutes of recovery separate each set.
+As with similar workouts, the goal is to improve both your aerobic efficiency and aerobic power.
+By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
+
+This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.
+Additionally, you'll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.
+
+Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.
+If you're frequently exiting intervals early, reduce the Workout Intensity to your highest repeatable power output.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+Endurance | 4m:30s       | Easy riding           | 3     | 55-64
+Main set  | 7x5m (5m RI) | Anaerobic capacity    |       |
+          | _7x25s over_ | _Anaerobic capacity_  | 6     | 125
+          | _15s floats_ | _Sweet spot_          | 3     | 88
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+**Workout Overloads**
 
 ---
 
