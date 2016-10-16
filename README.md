@@ -16,7 +16,7 @@ These workouts are broken down by the power zones they target.
 - [Neuromuscular Power Workouts](#np)
 - [Testing Protocols](#test)
 
-## Active Recovery Workouts <a id="ar"></a>
+## Active Recovery Workouts
 
 ---
 
@@ -152,7 +152,7 @@ Sweet spot training is some of your best bang for buck. It offers great metaboli
 
 This particular work out is for 3 sets of 12 minute intervals.
 
-Start with 10 minutes of warm up followed by 5 sets of 1 minute fast pedalling. 1 minutes rest inbetween efforts.
+Start with 10 minutes of warm up followed by 5 sets of 1 minute fast pedalling. 1 minutes rest in-between efforts.
 
 Perform the 3 sets of 12 minutes at sweet spot effort with 3 minutes zone 2 recovery.
 
@@ -170,6 +170,27 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 - SS-W8+1 - 4 sets
 - SS-W8+2 - 5 sets
 - SS-W8+3 - 6 sets
+
+---
+
+### SS-W10
+
+**Crane**
+
+Crane is 5x30-second Hard Starts at 165% FTP followed by 1 minute of Sweet Spot work at 92% FTP.
+
+Nearly 5 minutes of recovery falls between each effort.
+
+Since each of these short, race-priming efforts targets increased muscle activation, make each of them matter by perfecting your ability to hammer yourself without breaking yourself.
+
+You'll know you've gone too hard when you can't survive the post-sprint minute, and you might need to increase the Workout Intensity if you find yourself sailing through those final minutes.
+
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+FP        | 5x1m (1m RI)  | Fast pedal - 110+ rpm | 3     | 84-88
+SS        | 3x12m (3m RI) | Sweet spot            | 3-4   | 84-98
+Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
@@ -224,6 +245,34 @@ Cool down | 5m            | Cool down             | 2     | 29-55
 
 ---
 
+### LT-W10
+
+**Truuli**
+
+This priming workout for a time trial or road race is recommended 24 hours prior to your TT.
+
+It includes 3x4-minute steady-state efforts @ FTP & three 90-second blowout efforts at 115-125% FTP.
+
+Modifications: 45-minute version
+
+It's important to blow out your legs to a certain extent the day prior to a time trial or road race.
+
+Give yourself adequate recovery between efforts and stay hydrated & nourished, and definitely have a recovery immediately post-workout.
+
+Section   | Time          | Description           | Zones | % of FTP
+----------|---------------|-----------------------|:-----:|:-------:
+Warmup    | 10m           | Easy riding           | 2     | 38-66
+SS        | 4m            | Steady-state at FTP   | 4     | 100
+Recovery  | 2m            | Recovery              | 1     | 40
+SS        | 4m            | Steady-state at FTP   | 4     | 100
+Recovery  | 5m            | Recovery              | 1     | 40
+Sprint    | 90s           | Blowout sprint        | 5     | 115
+Recovery  | 5m            | Recovery              | 1     | 40
+Sprint    | 90s           | Blowout sprint        | 5     | 120
+Cool down | 5m            | Cool down             | 2     | 29-55
+
+---
+
 ### LT-W11
 
 **Sisters**
@@ -269,7 +318,7 @@ Secondarily, this strives to simultaneously challenge one's anaerobic work capac
 
 This is 6 sets lasting almost 5 minutes each each consisting of 8x15 efforts at 125% FTP with less than restful "floats" for 15 seconds at 88% FTP.The floats grow to 30 seconds after every set of short VO2 Max efforts.Recoveries between sets are 5 minutes long.
 
-The goal here is to improve both your aerobic efficiency and aerobic power.By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.Additionally, youll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks.If youre frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
+The goal here is to improve both your aerobic efficiency and aerobic power.By working very hard for brief intervals and then only recovering for very short periods of time, these micro-intervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.Additionally, you'll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.Very Important: Performing these intervals at 125% FTP assumes you can complete the intervals with few or no breaks. If you're frequently exiting intervals early, reduce the Workout Intensity to a repeatable power output.
 
 Section   | Time         | Description           | Zones | % of FTP
 ----------|--------------|-----------------------|:-----:|:-------:
@@ -300,7 +349,34 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 **Workout Overloads**
 
 - VO2-W6+1 - 6m work intervals
-- VO2-W6+2 - 6m work intervals
+- VO2-W6+2 - 7m work intervals
+- VO2-W6+3 - 8m work intervals
+
+---
+
+### VO2-W7
+
+**40/20**
+
+This is a favourite workout of Jens Voight, so let's make those legs shout out.
+
+It is a simple plan, two sets of five minute efforts. Each minute is made up of 40 seconds at Vo2max efforts followed by 20 seconds of rest. Keep the cadence low, around the 80 mark just to work those leg muscles really work.
+
+Over-Unders help develop the ability to handle changes in pace while maintaining a high level of work. Think of pushing up a short rise before settling back into time trial mode.
+
+By pushing above FTP briefly, you'll flood your muscles with metabolic byproducts bringing with them the desire to ease up, don't.
+
+Hold that burn and relief will come gradually, all the while your muscles improve their abitliy to shuttle the excess lactate as your mind learns to tolerate the additional discomfort and eventually minimize it.
+
+Try to keep your cadence in the 85-95 rpm range whether in the valleys or on the way up/down.
+
+Section     | Time           | Description           | Zones | % of FTP
+------------|----------------|-----------------------|:-----:|:-------:
+Warmup      | 10m            | Easy riding           | 2     | 38-66
+Set 1       | 5x40s (20s RI) | VO2 Max efforts       | 5     | 108
+Recovery    | 5x40s (20s RI) | Recovery              | 2     | 55
+Set 1       | 5x40s (20s RI) | VO2 Max efforts       | 5     | 108
+Cool down   | 5m             | Cool down             | 2     | 29-55
 
 ---
 
@@ -308,7 +384,7 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 **Red Lake**
 
-Red Lake is 5x6-minute repeats at 108% FTP separated by 5-minute recovery valleys.
+Red Lake is 5x5-minute repeats at 108% FTP separated by 5-minute recovery valleys.
 
 A sharp drop from VO2 Max power allows far greater time at an output well above your current sustainable power.
 
@@ -322,6 +398,12 @@ Warmup    | 10m          | Easy riding           | 2     | 38-66
 VO2       | 5x6m (5m RI) | VO2 Max efforts       | 5     | 108
 Cool down | 5m           | Cool down             | 2     | 29-55
 
+**Workout Overloads**
+
+- VO2-W8+1 - 6m work intervals
+- VO2-W8+2 - 7m work intervals
+- VO2-W8+2 - 8m work intervals
+
 ---
 
 ### VO2-W9
@@ -334,7 +416,7 @@ Rest between intervals is 2 minutes long and rest between sets of intervals is 8
 
 Reduce the Workout Intensity as necessary such that you can fully complete each of these 4-minute intervals, but never drop below 110% FTP.
 
-You''ll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
+You'll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
 
 VO2max repeats are all about increasing your aerobic capabilities & adaptations via work done at or very near your peak aerobic power output.
 
@@ -344,7 +426,7 @@ Section   | Time         | Description           | Zones | % of FTP
 ----------|--------------|-----------------------|:-----:|:-------:
 Warmup    | 10m          | Easy riding           | 2     | 38-66
 Endurance | 5m           | Easy riding           | 2     | 59-68
-Set 1     | 3x4m (4m RI) | VO2 Max efforts       | 5     | 120
+Set 1     | 3x2m (2m RI) | VO2 Max efforts       | 5     | 120
 Recovery  | 8m           | Easy riding           | 1     | 40
 Set 2     | 3x4m (4m RI) | VO2 Max efforts       | 5     | 120
 Cool down | 5m           | Cool down             | 2     | 29-55
@@ -357,6 +439,75 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
+### VO2-W10
+
+**South Twin**
+
+South Twin is a VO2 Max taper/recovery workout and consists of 2 sets of 2x2-minute VO2 Max intervals at 125% FTP.
+
+Extended rest between intervals is 4 minutes long and rest between sets of intervals is 8 minutes long.
+
+As with most recovery workouts, the intent is to keep the intensity and ditch some of the volume & overall stress.
+
+If you find that 3 of these intervals wipes you out, then resist the urge to poorly perform the fourth and final interval simply because it's there.
+
+Similarly, if you're smoked after 2 intervals, bag the rest of the workout knowing that the rest is more important (and productive) than the stress today.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### VO2-W11
+
+**40/20s**
+
+Different spin on VO2-W7
+
+A few options today so it is important to listen to your body when deciding what to do. Some time spent in the gym, or even taking a yoga or Pilates class, can be an ideal complement to the cycling training you are doing. If you have felt strong on the bike all week, the Bonus Session is a good choice but remember you have got a fairly tough ride tomorrow. If you are feeling
+tired though, take an additional rest day
+
+
+Section     | Time           | Description           | Zones | % of FTP
+------------|----------------|-----------------------|:-----:|:-------:
+Warmup      | 10m            | Easy riding           | 2     | 38-66
+Set 1       | 5x20s (40s RI) | VO2 Max efforts       | 5     | 108
+Recovery    | 5x20s (40s RI) | Recovery              | 2     | 55
+Set 1       | 5x20s (40s RI) | VO2 Max efforts       | 5     | 108
+Cool down   | 5m             | Cool down             | 2     | 29-55
+
+---
+
+### VO2-W12
+
+**Carpathian Peak**
+
+This workout is 3x12-minute over-under intervals with 1-minute valleys at 95% FTP and 1-minute peaks that ascend to 105% FTP.
+
+Recoveries between over-unders are 8-minutes long.
+
+
+Section   | Time             | Description           | Zones | % of FTP
+----------|------------------|-----------------------|:-----:|:-------:
+Warmup    | 10m              | Easy riding           | 2     | 38-66
+Set 1     | 6x1m (1m RI)     | VO2 Max efforts       |       |
+          | _6x1m over_      | _VO2 Max efforts_     | 6     | 105
+          | _6x1m under_     | _Sweet spot_          | 3     | 95
+Recovery  | 8m               | Easy riding           | 1     | 40
+Set 2     | 6x1m (1m RI)     | VO2 Max efforts       |       |
+          | _6x1m over_      | _VO2 Max efforts_     | 6     | 105
+          | _6x1m under_     | _Sweet spot_          | 3     | 95
+Recovery  | 8m               | Easy riding           | 1     | 40
+Set 3     | 6x1m (1m RI)     | VO2 Max efforts       |       |
+          | _6x1m over_      | _VO2 Max efforts_     | 6     | 105
+          | _6x1m under_     | _Sweet spot_          | 3     | 95
+Cool down | 5m               | Cool down             | 2     | 29-55
+
+---
+
 ## Anaerobic Capacity Workouts
 
 ---
@@ -365,13 +516,13 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 **Monadnock**
 
-Monadnock consists of 2 sets of 3x4-minute VO2max intervals at 130% FTP.
+Monadnock consists of 2 sets of 3x2-minute VO2max intervals at 130% FTP.
 
 Rest between intervals is 4 minutes long and rest between sets of intervals is 8 minutes long.
 
 Reduce the Workout Intensity as necessary such that you can fully complete each of these 4-minute intervals, but never drop below 110% FTP.
 
-You''ll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
+You'll then probably use that same power reduction during alternate versions of this workout which increase each interval's duration.
 
 VO2max repeats are all about increasing your aerobic capabilities & adaptations via work done at or very near your peak aerobic power output.
 
@@ -405,7 +556,7 @@ Extended 30-second floats fall after each set of Billats and the entire workout 
 
 As with similar workouts, the goal is to improve both your aerobic efficiency and aerobic power.
 
-By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
+By working very hard for brief intervals and then only recovering for very short periods of time, these micro intervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
 
 This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.
 
@@ -430,6 +581,23 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
+### AC-W13
+
+**Fields**
+
+A 39 minute workout that comfortably fits profound discomfort into a lunch hour.
+
+5:00 – Warm-up
+3:00 – 2x :25 Sprint & 1:00 Tempo 10:00 – 20x :15 Easy/:15 Not Easy 4:00 – Recovery 10:00 – 20x :15 Easy/:15 Not Easy 3:00 – Cool-down For too long, perhaps, we have simply shrugged such comments off as Couchlandrian attempts to sway public opinion toward a life devoid of HONOUR, GLORY and VICTORY. But it’s gone on too long – and we had to respond. So, over a bottle of Real Pagne, legendary Directeur Sportif Grunter von Agony had a quiet word with a man named Ian Field. Ian, you may know, is an elite coach with Dig Deep Coaching, and a three-time (and current) British National Cyclocross Champion. After an evil laugh that lingered, he provided us a workout he uses to perform at the highest levels of the Cyclocross World Cup. “Don’t worry,” said Ian. “The Couchlandrians will enjoy half of it.” And so, we give you Half is Easy. It features a boat, two puppies, a cat, a hammock, an ocean view or two and a campfire beer. It also features officially licensed UCI footage from both men’s and women’s elite racing in MTB, Cyclocross, BMX and Road. Something for everyone, really. You won’t half enjoy it.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
 ### AC-W14
 
 **Wolf Jaw**
@@ -442,7 +610,7 @@ Extended 30-second floats fall after each set of Billats and the entire workout 
 
 As with similar workouts, the goal is to improve both your aerobic efficiency and aerobic power.
 
-By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
+By working very hard for brief intervals and then only recovering for very short periods of time, these micro intervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
 
 This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.
 
@@ -475,7 +643,7 @@ Bear is 7 sets lasting about 5 minutes each consisting of 7x25/15 VO2 Max repeat
 
 5 minutes of recovery separate each set.
 As with similar workouts, the goal is to improve both your aerobic efficiency and aerobic power.
-By working very hard for brief intervals and then only recovering for very short periods of time, these microintervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
+By working very hard for brief intervals and then only recovering for very short periods of time, these micro intervals can be highly effective at improving your ability to sustain & repeat efforts well above FTP.
 
 This improved aerobic capacity & power can also raise your sustainable power and gradually increase your FTP.
 Additionally, you'll improve your ability to accelerate in minimal time and improvements in your mental capacity (i.e. toughness) are likely considering the necessary discomfort when repeating high-intensity bursts of power & speed.
@@ -519,18 +687,172 @@ Cool down | 5m           | Cool down             | 2     | 29-55
 
 ---
 
+### AC-W17
+
+**Megantic**
+
+Megantic is 4x5-minute race-like efforts beginning with a 30-second surge at 150% FTP and closely followed by 4 minutes of repeats where you're either working at 125% or "floating" at 88% FTP.
+
+Each effort is separated by 5 minutes of recovery.
+
+Combination intervals like this are aimed primarily at making your workouts more and more similar to your target events.
+
+More specifically, the initial sprint is about high power & high muscle contribution/activation while the latter VO2 Max repeats target your aerobic power, oxygen uptake & pain tolerance.
+
+Important: If the sprint segments are too severe, reduce the Workout Intensity during the sprints.
+
+If you frequently skip Billats, reduce the Workout Intensity during the 15/15's.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### AC-W18
+
+**Osceola**
+
+Osceola is 2 sets of 3x1-minute VO2 Max intervals at 125% FTP and forms this Taper version of similar VO2max workouts.
+
+Rest between intervals is 4 minutes long and rest between sets of intervals is 8 minutes long.
+
+Tapering is all about high intensity but low levels of volume & fatigue, so pay attention to how you feel as this deceivingly short workout progresses.
+
+If your fatigue mounts to a point where you aren't eager to attack the next 1-minute interval, skip it.
+
+If you can't rally for the interval that follows that one, your day's done, son.
+
+Taper workouts should leave you feeling fresh & ready to perform, not tired & demotivated.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### AC-W19
+
+**English**
+
+English is 2 sets of 7x60-seconds @ 127% FTP/50-second recoveries.
+
+Each set is separated by 8 minutes of recovery.
+
+One aim of high-intensity efforts is to increase the total number of muscle fibers available for recruitment and thus grow your capacity for greater power outputs.
+
+Another goal is to improve your total muscular contribution and expand your muscular capabilities, both in terms of force production & endurance capacity.
+
+And by performing small doses of high-intensity work, you'll lay the foundation for much longer VO2max intervals done at lower percentages of VO2max but still above FTP.
+
+Strive for a higher than usual cadence, preferably over 100rpm.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### AC-W20
+
+**Xalibu**
+
+Xalibu consists of 7x5-minute race-like efforts beginning with a 30-second surge at 180% FTP.
+
+This hard start is followed closely by 8x 15s/15s Reduced Amplitude Billats where you'll ride for 15 seconds at 125% FTP and then float for 15 seconds at 88% FTP.
+
+Each effort is separated by 5 minutes of recovery.
+
+Combination intervals like this are aimed primarily at making your workouts more & more similar to your target events.
+
+More specifically, the initial sprint is about high power & high muscle contribution/activation while the latter RAB's target your aerobic power, oxygen uptake & pain tolerance.
+
+If the sprint segments are too severe, reduce the Workout Intensity during the sprints and bring it back up during each post-sprint ramp.
+
+If you find yourself frequently skipping Billats, reduce the Workout Intensity during the 15/15's.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### AC-W21
+
+**Thimble**
+
+Thimble is 2 sets of 7x50-seconds @ 127% FTP/50-second recoveries.
+
+Each set is separated by 8 minutes of recovery.
+
+One aim of high-intensity efforts is to increase the total number of muscle fibers available for recruitment and thus grow your capacity for greater power outputs.
+
+Another goal is to improve your total muscular contribution and expand your muscular capabilities, both in terms of force production & endurance capacity.
+
+And by performing small doses of high-intensity work, you'll lay the foundation for much longer VO2max intervals done at lower percentages of VO2max but still above FTP.
+
+Strive for a higher than usual cadence, preferably over 100rpm.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
+### AC-W22
+
+**Richardson**
+
+Richardson is 6x5-minute race-like efforts beginning with a 30-second surge at 165% FTP and closely followed by 4 minutes of repeats where you're either working at 125% or "floating" at 88% FTP.
+
+Each effort is separated by 5 minutes of recovery.
+
+Combination intervals like this are aimed primarily at making your workouts more and more similar to your target events.
+
+More specifically, the initial sprint is about high power & high muscle contribution/activation while the latter VO2 Max repeats target your aerobic power, oxygen uptake & pain tolerance.
+
+Important: If the sprint segments are too severe, reduce the Workout Intensity during the sprints.
+
+If you frequently skip Billats, reduce the Workout Intensity during the 15/15's.
+
+Section   | Time         | Description           | Zones | % of FTP
+----------|--------------|-----------------------|:-----:|:-------:
+Warmup    | 10m          | Easy riding           | 2     | 38-66
+
+Cool down | 5m           | Cool down             | 2     | 29-55
+
+---
+
 ## Neuromuscular Power Workouts
 
 ---
 
-## Testing Protocols
+## Testing Protocols and Speciality
 
 ---
 
-### TEST-W1
+### SPEC-W1
 
 **20 Minute FTP Test**
 
 This is the normal Hunter Allan and Andrew Coggan 20 minute FTP test.
+
+---
+
+### SPEC-W2
+
+**Race warmup**
+
+This is a race warmup protocol
 
 ---
