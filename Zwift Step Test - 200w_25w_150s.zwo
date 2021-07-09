@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<workout_file>
+  <author>Adam Chamberlin</author>
+  <name>PPO Test - 200w | 25w | 150s</name>
+  <description>PPO TEST - Starting power of 200w with 25w steps over 150 seconds
+
+- *IMPORTANT* Set your FTP to 100W before starting this workout.
+- Complete the test through to failure.
+- Record your failure stage and duration in seconds.
+- Calculate your MAP and estimated FTP. (as per documentation)
+- Calculate 105% of your FTP and perform the 20minute FTP test to validate the figures.
+
+  </description>
+  <tags>
+    <tag name="INTERVALS"/>
+    <tag name="FTP"/>
+    <tag name="STEPTEST"/>
+  </tags>
+  <workout>
+    <FreeRide Duration="600" FlatRoad="1">
+      <textevent timeoffset="0" message="Warm Up: 10 minute FREE RIDE"/>
+    </FreeRide>
+    <SteadyState Duration="150" Power="2"/>
+    <SteadyState Duration="150" Power="2.25"/>
+    <SteadyState Duration="150" Power="2.5"/>
+    <SteadyState Duration="150" Power="2.75"/>
+    <SteadyState Duration="150" Power="3"/>
+    <SteadyState Duration="150" Power="3.25"/>
+    <SteadyState Duration="150" Power="3.5"/>
+    <SteadyState Duration="150" Power="3.75"/>
+    <SteadyState Duration="150" Power="4"/>
+    <SteadyState Duration="150" Power="4.25"/>
+    <SteadyState Duration="150" Power="4.5"/>
+    <SteadyState Duration="150" Power="4.75"/>
+    <SteadyState Duration="150" Power="5"/>
+    <SteadyState Duration="150" Power="5.25"/>
+    <SteadyState Duration="150" Power="5.5"/>
+    <SteadyState Duration="150" Power="5.75"/>
+    <SteadyState Duration="150" Power="6"/>
+    <SteadyState Duration="150" Power="6.25"/>
+    <SteadyState Duration="150" Power="6.50"/>
+    <SteadyState Duration="150" Power="6.75"/>
+    <SteadyState Duration="150" Power="7"/>
+    <SteadyState Duration="150" Power="7.25"/>
+    <SteadyState Duration="150" Power="7.50"/>
+    <SteadyState Duration="150" Power="7.75"/>
+    <SteadyState Duration="150" Power="8"/>
+    <SteadyState Duration="150" Power="8.25"/>
+    <SteadyState Duration="150" Power="8.50"/>
+    <SteadyState Duration="150" Power="8.75"/>
+    <SteadyState Duration="150" Power="9"/>
+    <SteadyState Duration="150" Power="9.25"/>
+    <SteadyState Duration="150" Power="9.50"/>
+    <SteadyState Duration="150" Power="9.75"/>
+    <SteadyState Duration="150" Power="10"/>
+  </workout>
+</workout_file>
